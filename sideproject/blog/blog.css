@@ -1,7 +1,10 @@
 /* stylelint-disable selector-list-comma-newline-after */
+*{
+  font-family: 'Montserrat', sans-serif;
+}
 body {
   background-color: #808B96;
-  font-family: sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .blog-header {
@@ -122,11 +125,19 @@ h3{
   color: #e5e5e5;
 }
 
-.contact-class{
+.contact-class {
   list-style-type:none;
+  text-align: left;
+  padding-top: 1em;
   
 }
 
+.contact-class i li{
+  list-style-type:none;
+  text-align: left;
+  padding-top: 1em;
+  
+}
 .contact-class span{
  padding-left: 1em;
 }
