@@ -85,7 +85,7 @@ input, select, textarea {
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../../images/pic04.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
@@ -2673,7 +2673,7 @@ ul,li {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: ##8ca1d1;
+				background-color: #8ca1d1;
 			}
 
 			input[type="submit"].primary:active,
@@ -2681,7 +2681,7 @@ ul,li {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #rgba(140, 161, 209, 0.8);
+				background-color: rgba(140, 161, 209, 0.8);
 			}
 
 			input[type="submit"].primary.icon:before,
@@ -2689,7 +2689,7 @@ ul,li {
 			input[type="button"].primary.icon:before,
 			button.primary.icon:before,
 			.button.primary.icon:before {
-				color: #rgba(140, 161, 209, 0.59);
+				color: rgba(140, 161, 209, 0.59);
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
